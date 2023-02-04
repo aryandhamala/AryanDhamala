@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React JS,React Native**
 
-- 💬 Ask me about **python,dart**
+- 💬 Ask me about **python,JavaScript**
 
 - 📫 How to reach me **aryandhamala8@gmail.com**
 
